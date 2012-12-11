@@ -29,3 +29,10 @@ Program for controlling the Watts Up? Pro Device.
 %doc utility.txt readme.txt
 %{_bindir}/%{name}
 
+
+
+%changelog
+* Fri Aug 06 2010 Nicolas Vigier <nvigier@mandriva.com> 0.1-1mdv2011.0
++ Revision: 566834
+- import wattsup
+
