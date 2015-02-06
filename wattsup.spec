@@ -1,6 +1,6 @@
 Name:		wattsup
 Version:	0.1
-Release:	%mkrel 1
+Release:	2
 License:	GPLv2
 Group:		Monitoring
 Summary:	Program for controlling the Watts Up? Pro Device
